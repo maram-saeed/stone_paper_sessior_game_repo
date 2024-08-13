@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stone_paper_sessior_game", "stone_paper_sessior_game\stone_paper_sessior_game.vcxproj", "{9A63A6BF-5A8C-4DC9-BDBD-359C43DA0EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A63A6BF-5A8C-4DC9-BDBD-359C43DA0EFC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A63A6BF-5A8C-4DC9-BDBD-359C43DA0EFC}.Debug|Win32.Build.0 = Debug|Win32
+		{9A63A6BF-5A8C-4DC9-BDBD-359C43DA0EFC}.Release|Win32.ActiveCfg = Release|Win32
+		{9A63A6BF-5A8C-4DC9-BDBD-359C43DA0EFC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
